@@ -1,0 +1,12 @@
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\bin\Debug\Ebling.exe.config
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\bin\Debug\Ebling.exe
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\bin\Debug\Ebling.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.csprojAssemblyReference.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.Datas.FormsDatas.Turno.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.Eleicao.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.FormPrincipal.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.Properties.Resources.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.csproj.GenerateResource.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.csproj.CoreCompileInputs.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.exe
+D:\Codigos-em-CSharp-e-Java\C#\C#\Ebling\obj\Debug\Ebling.pdb
